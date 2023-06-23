@@ -1,0 +1,34 @@
+{
+  "testBooks": [
+    {
+      "id": 1,
+      "Name": "DataBook",
+      "numberOfPages": "100",
+      "Author": "Rappur"
+    },
+    {
+      "id": 2,
+      "Name": "ScienceBook",
+      "NumberOfPages": "95",
+      "Author": "Rainbow West"
+    },
+    {
+      "id": 3,
+      "Name": "TechBook",
+      "NumberOfPages": "105",
+      "Author": "Ivy League"
+    },
+    {
+      "id": 4,
+      "Name": "STEM",
+      "NumberOfPages": "150",
+      "Author": "Brave"
+    },
+    {
+      "id": 5,
+      "Name": "Domain Stack",
+      "NumberOfPages": "120",
+      "Author": "Patched Author"
+    }
+  ]
+}
